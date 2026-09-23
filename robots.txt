@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://poorvamali25.github.io/lily-aroma-atlas/sitemap.xml
